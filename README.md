@@ -38,15 +38,35 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+## OUTPUT: ![image](https://github.com/user-attachments/assets/d8324c93-2c3e-4237-8155-01fa220512e2)
 
-## Output:
+![image](https://github.com/user-attachments/assets/9e437ba5-262d-4e47-a660-872e31210d4a)
+EXPLANATION:
+Model Design: Begin with creating or obtaining a 3D model using computer-aided design (CAD) software. Design the model according to your specifications and intended use.
 
-### Name:
-### Register Number:
+Geometry Optimization: Check and optimize the geometry of your CAD model. Ensure that it is watertight, meaning it has no holes or gaps in the mesh. Repair any issues with the geometry using CAD software or dedicated mesh repair tools.
+
+Scaling and Orientation: Adjust the size and orientation of the model as per your requirements. Consider the limitations and capabilities of your 3D printer and choose the appropriate size and orientation for successful printing.
+
+![image](https://github.com/user-attachments/assets/47b62dc0-8e24-47a1-98ac-faaee2c7c783)
+**
+
+![image](https://github.com/user-attachments/assets/9e87de0c-5332-4320-9950-41b2af8b2218)
+
+![image](https://github.com/user-attachments/assets/2f6c2644-7f34-46ca-95c5-53924b0c9374)
+
+![image](https://github.com/user-attachments/assets/6fc289a8-bd37-4da8-982b-f26f62373d11)
+
+
+
+
+
+
+
+## Output by
+
+### Name: Purusothaman
+### Register Number:24901211
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
